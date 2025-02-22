@@ -32,26 +32,3 @@ $submit.addEventListener("click", () => {
 
 })
 
-
-// // localStorageを使う
-
-// var email = 1;
-
-// // データの保存
-// localStorage.setItem('access_email', num);
-// window.localStorage.setItem('access_email', num);
-// localStorage.access_email = num
-
-
-// // データの取得
-// num = localStorage.getItem('access_email');
-// num = window.localStorage.getItem('access_email');
-// num = localStorage.access_email
-
-// // データの削除
-// localStorage.removeItem('access_email');
-// window.localStorage.removeItem('access_email');
-
-// // localStorageを初期化
-// localStorage.clear();
-// window.localStorage.clear();
